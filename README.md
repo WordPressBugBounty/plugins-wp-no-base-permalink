@@ -1,0 +1,1 @@
+# plugins-wp-no-base-permalink
